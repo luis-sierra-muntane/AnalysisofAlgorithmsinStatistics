@@ -1,2 +1,2 @@
-# AnalysisofAlgorithmsinStatistics
-Repository for the analysis and implementation of key algorithms in high-dimensional statistics such as QR, SVD, Cholesky etc.
+# Analysis of Algorithms in Statistics
+Modern statistics runs on matrix decompositions the same way modern cities run on electricity: quietly, constantly, and absolutely everywhere. Whether you’re fitting regressions, running PCA, exploring latent structure, or stabilizing ill-conditioned problems, you’re depending on a handful of numerical algorithms that do the real heavy lifting: QR, SVD, eigendecompositions, Cholesky, and their friends. Let’s look at how these algorithms actually work and why they’re the trustworthy backbone of statistical computation, addressing current limitations and opportunities for our own contributions.
